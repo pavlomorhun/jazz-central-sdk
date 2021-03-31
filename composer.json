@@ -1,0 +1,17 @@
+{
+    "name": "pavlomorhun/jazz-central-sdkr",
+    "description": "Developers kit to integration with Jazz Central",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavlo Morhun",
+            "email": "pavlo.morhun@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"JazzCentral\\": "src/"}
+    },
+    "require": {}
+}
